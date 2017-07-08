@@ -1,5 +1,5 @@
 # High-Sigma-Modeling
-# UCLA_EE 201C_SPRING 2017_Project
+UCLA_EE 201C_SPRING 2017_Project
 
 #################################
 # EE201C PROJECT 3
